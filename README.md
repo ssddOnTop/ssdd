@@ -16,7 +16,7 @@
 [![ssdd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssddOnTop&layout=compact)](https://github.com/ssddOnTop/github-readme-stats)
 
 ---
-[![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssddOnTop)](https://github.com/ssddOnTop/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <summary>:zap: Github Stats</summary>
