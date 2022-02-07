@@ -1,7 +1,7 @@
 ### Hi there, I'm Sandip <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/smile.gif" width="50px">
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
+  <a href="https://github.com/ssddOnTop"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=ssddOnTop&style=flat&color=blueviolet"/></a>
 <!-- [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me&style=flat)](https://vamsee.me) -->
 
 ## I'm Open Source Developer, and Student!
